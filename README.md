@@ -2,7 +2,7 @@
 
 🌱 I’m currently working on [jahro.me](http://jahro.me)
 
-It's built on my [yhwh-script](https://github.com/yhwh-script/) framework.
+It's built on my vanilla [yhwh-script](https://github.com/yhwh-script/) framework.
 
 You can also start building anything you want with 
 
