@@ -8,7 +8,7 @@ You can also start building anything you want with
 
 ```npx @yhwh-script/create-app {PROJECT_NAME}```
 
-💞️ I’m looking for a team!
+💞️ Take the blue pill
 📫 You can reach me @jahro_me
 
 
