@@ -2,11 +2,13 @@
 
 🌱 I’m currently working on [jahro.me](http://jahro.me)
 
-It's built on my vanilla [yhwh-script](https://github.com/yhwh-script/) framework.
+It's built on my  [vanillaspa](https://github.com/vanillaspa/) framework, which in fact is no framework, but standards-conforming WebComponents.
 
 You can also start building anything you want with 
 
-```npx @yhwh-script/create-app {PROJECT_NAME}```
+```git clone https://github.com/vanillaspa/vanillaspa.git```
+
+and start creating sustainable Web.
 
 💞️ Take the red pill
 📫 You can reach me @jahro_me
