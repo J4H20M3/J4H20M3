@@ -2,11 +2,11 @@
 
 🌱 I’m currently working on [jahro.me](http://jahro.me)
 
-It's built on my  [vanillaspa](https://github.com/vanillaspa/) framework, which in fact is no framework, but standards-conforming WebComponents.
+It's built on my  [Vanilla SPA](https://vanillaspa.github.io/github-page/) framework, which is in fact standard WebComponents with a few hacks where people say: "Thought this was impossible with web-components".
 
 You can also start building anything you want with 
 
-```git clone https://github.com/vanillaspa/vanillaspa.git```
+```git clone https://github.com/vanillaspa/boilerplate.git```
 
 and start creating sustainable Web.
 
